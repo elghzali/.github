@@ -1,6 +1,8 @@
 ---
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://raw.githubusercontent.com/elghzali/.github/refs/heads/main/img/cover.png)
 
-# 🌐 ثانوية أبي حامد الغزالي
+---
+
 هذا ليس مجرد موقع للثانوية، بل هو مبادرة تقنية مفتوحة المصدر تهدف لخدمة المجتمع التربوي. نحن نؤمن بقوة التعاون الجماعي لتطوير أدوات تعليمية أفضل.
 
 ### دعوة للمساهمة
